@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment1c030</string>
+    <string name="enter_your_prompt_here">Enter your prompt here</string>
+
+    <!-- Add this missing string -->
+    <string name="field_cannot_be_empty">Field cannot be empty</string>
+
+    <!-- Optional: the placeholder text for AI response -->
+    <string name="aistring">Please enter a prompt above.</string>
+</resources>
