@@ -20,8 +20,8 @@ The app features a conversational UI with a bot and user message interface, cust
   - Auto adapts based on system theme.  
 
 - 📜 **Dynamic Message Bubbles**  
-  Messages auto-expand vertically, wrapping text without cutting words.  
-  Scrolling enabled for long conversations.  
+  - Messages auto-expand vertically.  
+  - Scrolling enabled for long conversations.  
 
 - 🌐 **Internet & Voice Support (Optional)**  
   - Internet permission included for API integration.  
